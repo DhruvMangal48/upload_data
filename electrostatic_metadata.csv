@@ -1,0 +1,10 @@
+micromolecule_id,atom_id,atomic_charge
+19,OD1,-0.76
+19,OD2,-0.76
+9,OE1,-0.76
+9,OE2,-0.76
+17,NH1,0.80
+17,NH2,0.80
+7,NZ,0.30
+16,ND1,0.38
+16,NE2,0.57
